@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr confused_smiley.txt
+cat confused_smiley.txt
