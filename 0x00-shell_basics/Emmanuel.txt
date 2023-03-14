@@ -1,0 +1,21 @@
+total 72
+-rw-r--r-- 1 root root  0 Mar 13 01:24 Emmanuel.txt
+lrwxrwxrwx 1 root root  7 Mar 12 13:39 _ls_ -> /bin/ls
+-rwxr-xr-x 1 root root 44 Mar 10 15:21 102-tree
+-rwxr-xr-x 1 root root 18 Mar 10 15:02 101-clean_emacs
+-rwxr-xr-x 1 root root 29 Mar 10 14:59 100-lets_move
+-rwxr-xr-x 1 root root 30 Mar  8 15:10 14-copy_html
+-rwxr-xr-x 1 root root 33 Mar  8 14:58 13-symbolic_link
+-rwxr-xr-x 1 root root 31 Mar  8 14:31 12-file_type
+-rwxr-xr-x 1 root root 30 Mar  8 14:22 11-lists
+-rwxr-xr-x 1 root root 17 Mar  8 13:40 10-back
+-rwxr-xr-x 1 root root 42 Mar  8 13:22 9-firstdirdeletion
+-rwxr-xr-x 1 root root 45 Mar  8 13:18 8-firstdelete
+-rwxr-xr-x 1 root root 50 Mar  8 13:15 7-movethatfile
+-rwxr-xr-x 1 root root 42 Mar  8 13:13 6-firstdirectory
+-rwxr-xr-x 1 root root 19 Mar  8 13:09 5-listfilesdigitonly
+-rwxr-xr-x 1 root root 19 Mar  8 12:58 4-listmorefiles
+-rwxr-xr-x 1 root root 19 Mar  8 12:44 3-listfiles
+-rwxr-xr-x 1 root root 21 Mar  8 12:43 2-bring_me_home
+-rwxr-xr-x 1 root root 15 Mar  8 12:22 1-listit
+-rwxr-xr-x 1 root root 16 Mar  8 12:08 0-current_working_directory
