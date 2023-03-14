@@ -1,2 +1,2 @@
 #!/bin/bash
-cat confused_smiley.txt
+echo "\"(Ôo)'"
